@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GoldenBuffalo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GoldenBuffalo\\.nuget\\packages"
+    ]
+  }
+}
